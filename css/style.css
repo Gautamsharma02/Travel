@@ -177,6 +177,12 @@ body {
     width: 20%;
     position: relative;
     text-align: left;
+    cursor: pointer;
+}
+
+#Calendar {
+    position: absolute;
+    width: 100%;
 }
 
 .date {
